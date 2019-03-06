@@ -51,7 +51,6 @@ namespace ClassesExamples
             return $"This is {Type} {Name}, with a(n) {Flavor} flavor, rated {Rating} with a review of {Review}";
         }
 
-        public 
 
     }
     enum CandyType //This is basically an options class.
